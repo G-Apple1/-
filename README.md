@@ -23,25 +23,25 @@
    #### 1.5 rqt_graph
    #### 1.6 
    
-### 3. solidworks to urdf/xacro 模型
+### 2. solidworks to urdf/xacro 模型
    #### 2.1 导出urdf文件
    #### 2.2 修正urdf文件误差（对称、惯性）
-   #### 2.1 了解urdf结构（link、joint）
+   #### 2.3 了解urdf结构（link、joint）
    1.了解Inertial
    2.了解collsion
    3.掌握xacro函数
-### 5. 4ws_control(four wheel steering)
-   4.1 Parameters 了解必要参数
+### 3. 4ws_control(four wheel steering)
+   #### 3.1 Parameters 了解必要参数
      wheel_base（前后轮距离）
      wheel_seperation（左右轮距离）
      wheel_radius（车轮半径）
      wheel_steering_offset_y（转向轴和车轮中心的偏差）
-   4.2 Three mode 三种模式
+   #### 3.2 Three mode 三种模式
      In-phase（前后轮同相）
      Opposite phase（前后轮反向）
      Rviot turn （绕四轮中心圆周运动）
    4.3 ros2_control 控制器
-### 7. 
+### 4. 
 
 ## 仿真环境
 
