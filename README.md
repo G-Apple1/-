@@ -40,7 +40,9 @@
      In-phase（前后轮同相）
      Opposite phase（前后轮反向）
      Rviot turn （绕四轮中心圆周运动）
-   4.3 ros2_control 控制器
+   #### 3.3 ros2_control 控制器
+      1.forward_velocity_pulisher/command
+      2.forward_position_publisher/command
 ### 4. 
 
 ## 仿真环境
