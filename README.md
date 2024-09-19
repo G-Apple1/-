@@ -30,7 +30,8 @@
       1.了解Inertial
       2.了解collsion
       3.掌握xacro函数
-### 3. 4ws_control(four wheel steering)
+### 3. 4ws_control(four wheel steering)  
+推荐配套代码和视频学习：[代码：ThisUserTaken/ros2_code](https://github.com/ThisUserTaken/ros2_code/tree/master/humble/four_ws_ros2/src)    [视频：【搬】使用 ROS2 控制和 Gazebo 模拟4舵轮小车](https://www.bilibili.com/video/BV1fY411y7xm/?spm_id_from=333.337.search-card.all.click&vd_source=27e70aced8c91cb9b37dc404a74db2fc)
    #### 3.1 Parameters 了解必要参数
      wheel_base（前后轮距离）
      wheel_seperation（左右轮距离）
