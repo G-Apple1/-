@@ -2,6 +2,10 @@
 基于设施园艺场景开发自动驾驶技术的研究探讨
 
 ## 入门
+推荐三个视频合集：  
+[ROS2从初级到高级（LEVEL2）：使用 URDF 设计自定义机器人，在 Gazebo 中模拟机器人](https://www.bilibili.com/video/BV1my411e7sZ/?p=1&vd_source=27e70aced8c91cb9b37dc404a74db2fc)   
+[古月居 古月·ROS2入门21讲 | 带你认识一个全新的机器人操作系统](https://www.bilibili.com/video/BV16B4y1Q7jQ/?spm_id_from=333.337.search-card.all.click&vd_source=27e70aced8c91cb9b37dc404a74db2fc)   
+[鱼香ROS 动手学ROS2|ROS2基础入门到实践教程|小鱼带你手把手学习ROS2](https://www.bilibili.com/video/BV1gr4y1Q7j5/?spm_id_from=333.337.search-card.all.click&vd_source=27e70aced8c91cb9b37dc404a74db2fc)
 ### 1. ros2 学习
    #### 1.1 了解workspace
       (build install log) src
@@ -31,7 +35,9 @@
       2.了解collsion
       3.掌握xacro函数
 ### 3. 4ws_control(four wheel steering)  
-推荐配套代码和视频学习：[代码：ThisUserTaken/ros2_code](https://github.com/ThisUserTaken/ros2_code/tree/master/humble/four_ws_ros2/src)    [视频：【搬】使用 ROS2 控制和 Gazebo 模拟4舵轮小车](https://www.bilibili.com/video/BV1fY411y7xm/?spm_id_from=333.337.search-card.all.click&vd_source=27e70aced8c91cb9b37dc404a74db2fc)
+推荐配套代码和视频学习：  
+[代码：ThisUserTaken/ros2_code](https://github.com/ThisUserTaken/ros2_code/tree/master/humble/four_ws_ros2/src)    
+[视频：【搬】使用 ROS2 控制和 Gazebo 模拟4舵轮小车](https://www.bilibili.com/video/BV1fY411y7xm/?spm_id_from=333.337.search-card.all.click&vd_source=27e70aced8c91cb9b37dc404a74db2fc)
    #### 3.1 Parameters 了解必要参数
      wheel_base（前后轮距离）
      wheel_seperation（左右轮距离）
