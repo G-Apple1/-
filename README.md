@@ -27,9 +27,9 @@
    #### 2.1 导出urdf文件
    #### 2.2 修正urdf文件误差（对称、惯性）
    #### 2.3 了解urdf结构（link、joint）
-   1.了解Inertial
-   2.了解collsion
-   3.掌握xacro函数
+      1.了解Inertial
+      2.了解collsion
+      3.掌握xacro函数
 ### 3. 4ws_control(four wheel steering)
    #### 3.1 Parameters 了解必要参数
      wheel_base（前后轮距离）
