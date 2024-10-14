@@ -51,7 +51,17 @@
    #### 3.3 ros2_control 控制器
       1.forward_velocity_pulisher/command
       2.forward_position_publisher/command
-### 4. 
+### 4. navigation2
+推荐视频学习：
+[机器人工匠阿杰](https://space.bilibili.com/411541289)
+[ROS2 Nav2 - Navigation Stack in 1 Hour [Crash Course]](https://www.youtube.com/watch?v=idQb2pB-h2Q&t=1090s)
+
+### 5. 雷达建图
+#### Cartographer
+文档学习：
+[Cartographer纯雷达定位建图](https://bluesnie.github.io/Learning-notes/ROS2/Nav2%E5%AF%BC%E8%88%AA%E7%AF%87/%E7%AC%AC10%E7%AB%A0-SLAM%E5%BB%BA%E5%9B%BE/%E8%BF%9B%E9%98%B6/002-%E4%BD%BF%E7%94%A8%E7%BA%AF%E9%9B%B7%E8%BE%BE%E5%AE%9A%E4%BD%8D%E5%BB%BA%E5%9B%BE.html)
+[ROS2+cartorgrapher+激光雷达建图并保存](https://blog.csdn.net/scarecrow_sun/article/details/127978254)
+#### scan-tools
 
 ## 仿真环境
 
